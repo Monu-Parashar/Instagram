@@ -47,4 +47,4 @@ function waitIng() {
 
 function fMe() {
   window.open("https://github.com/Monu-Parashar")
-}alert("--");
+}
